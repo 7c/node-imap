@@ -1,3 +1,6 @@
+## patched
+fork patched version of node-imap for own needs
+
 Description
 ===========
 
