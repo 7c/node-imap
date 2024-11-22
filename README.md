@@ -1,6 +1,10 @@
 ## patched
 fork patched version of node-imap for own needs
 
+```
+npm i --save https://github.com/7c/node-imap
+```
+
 Description
 ===========
 
